@@ -1,0 +1,19 @@
+C:\Users\WALDO\Desktop\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe.config
+C:\Users\WALDO\Desktop\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe
+C:\Users\WALDO\Desktop\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.pdb
+C:\Users\WALDO\Desktop\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csprojAssemblyReference.cache
+C:\Users\WALDO\Desktop\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Form1.resources
+C:\Users\WALDO\Desktop\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Properties.Resources.resources
+C:\Users\WALDO\Desktop\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.GenerateResource.cache
+C:\Users\WALDO\Desktop\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe
+C:\Users\WALDO\Desktop\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.pdb
+C:\Users\WALDO\Documents\UNIVERSIDAD\4to Semestre\Seminario de Algoritmia\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csprojAssemblyReference.cache
+C:\Users\WALDO\Documents\UNIVERSIDAD\4to Semestre\Seminario de Algoritmia\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Form1.resources
+C:\Users\WALDO\Documents\UNIVERSIDAD\4to Semestre\Seminario de Algoritmia\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Properties.Resources.resources
+C:\Users\WALDO\Documents\UNIVERSIDAD\4to Semestre\Seminario de Algoritmia\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.GenerateResource.cache
+C:\Users\WALDO\Documents\UNIVERSIDAD\4to Semestre\Seminario de Algoritmia\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe
+C:\Users\WALDO\Documents\UNIVERSIDAD\4to Semestre\Seminario de Algoritmia\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.pdb
+C:\Users\WALDO\Documents\UNIVERSIDAD\4to Semestre\Seminario de Algoritmia\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe.config
+C:\Users\WALDO\Documents\UNIVERSIDAD\4to Semestre\Seminario de Algoritmia\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe
+C:\Users\WALDO\Documents\UNIVERSIDAD\4to Semestre\Seminario de Algoritmia\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.pdb
+C:\Users\WALDO\Documents\UNIVERSIDAD\4to Semestre\Seminario de Algoritmia\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Form2.resources
